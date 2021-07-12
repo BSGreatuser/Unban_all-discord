@@ -1,2 +1,1 @@
-# Unban_all-discord
-Unban all users
+- 모든유저 차단해제
